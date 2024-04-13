@@ -1,0 +1,13 @@
+    {
+    "userType": "admin",
+    "adminID": 12345,
+    "adminName": "John Doe",
+    "email": "johndoe@example.com",
+    "password": "$2a$10$0DsejDVYWaWcy/sG5a4.BOZ4MfOaTTkGwZq4H6DCoJJG1sakvBJdS",
+    "gender": "male",
+    "age": 30,
+    "mobile": 1234567890,
+    "DOB": "1990-01-01",
+    "address": "123 Main St, City",
+    "education": "Bachelor's"
+    }
